@@ -7,7 +7,7 @@
 В результате тестирования выявлены следующие дефекты:
 https://github.com/TakkiDakki/Number1.1/issues/1
 
-В качестве тестовых данных использовались данные (приведенные в задании: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
 Ключи для проверки, где OK означает, что ключ валидный, FAIL - невалидный.
 > Валидные ключи:
 
